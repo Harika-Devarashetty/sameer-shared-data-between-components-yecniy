@@ -1,0 +1,10 @@
+:host {
+  display: block;
+  border: 1px solid lightgray;
+  padding: 1rem;
+  margin: 0;
+}
+
+b {
+  margin-right: 1rem;
+}
