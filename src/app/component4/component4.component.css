@@ -9,15 +9,17 @@
   border: 1px solid rgb(161, 185, 185);
 }
 .close {
-  margin-left: 200px;
+  /* margin-left: 20px; */
+  /* margin-right: -0px;
   padding-left: 7px;
-  padding-right: -4px;
-  width: 3opx;
+  padding-right: -7px;
+  width: 3opx; */
+
   outline: none;
   border: none;
 }
 .card-header {
-  padding-top: 10px;
+  padding-top: 0px;
   padding-left: 3px;
 
   /* background-color: rgb(176, 225, 240); */
@@ -28,8 +30,11 @@
   padding-top: 5px;
   border-top: 1px solid rgb(161, 185, 185);
   padding-left: 3px;
+  margin-top: 10px;
+  padding-bottom: 0px;
 }
 .card-text {
+  margin-top: 10px;
   padding-left: 3px;
   padding-top: 5px;
   border-top: 1px solid rgb(161, 185, 185);
